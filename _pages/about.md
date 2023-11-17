@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student at Arizona State University. I work at the intersection of Power Systems and Machine Learning. Check out my latest work on the publications tab. Interested in collaborating? Hit me up at antoscvarghese@gmail.com. Looking forward to engaging in thought-provoking exchanges and potential partnerships!
+I am a Ph.D. student at Arizona State University. I work at the intersection of Power Systems and Machine Learning. Check out my latest work on the publications tab. If you're intrigued by the prospect of collaboration or wish to discuss related topics, feel free to reach out to me at antoscvarghese@gmail.com. Looking forward to engaging in thought-provoking exchanges and potential partnerships!  
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
